@@ -1,0 +1,6 @@
+1)Projeyi github linkimden indirdikten sonra ilk olarak, Visual studioyu açıp projeyi indirdiğimiz dizinden open folder yapıyoruz.
+2)Sonra Visual Studio Code ekranında sol üstte yer alan "Terminal" butonuna tıklayarak terminalimizi açıyoruz.
+3)Açılan terminalde Windows kullanıcıları için projemizin dizinine geçmek için "cd project" yazıyoruz.
+4)"project" dizinimize geçtikten sonra yine terminal ekranına projemizi çalıştırmak için "py manage.py runserver" yazıp projemizi çalıştırıyoruz.
+5)Daha sonra "customerApp/urls.py"'da yazdığım gibi domainimin (127.0.0.1:8000/customerApp/) uç noktalarını yazarak crud işlemlerini yapmış oluyoruz. 
+6)Kaydettiğimiz veriler bilgisayarınızda kayıtlı olan pgAdmin4 veritabanımıza kaydediliyor.
